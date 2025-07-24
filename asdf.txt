@@ -1,0 +1,4 @@
+OverrideCommands=true
+PreLaunchCommand=powershell -c \"py $env:APPDATA\\MinecraftModSync\\client.py\"
+WrapperCommand=
+PostExitCommand=
